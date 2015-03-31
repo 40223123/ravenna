@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](introduction.md)
+* 夜神傳說~序篇
 
